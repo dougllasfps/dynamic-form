@@ -1,5 +1,4 @@
 .App {
-  text-align: center;
 }
 
 .App-logo {
@@ -9,7 +8,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -29,4 +28,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.display-inline{
+  display: inline;
 }
